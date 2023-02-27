@@ -4,6 +4,6 @@ Small C++ program to take emails and extract 57 attributes based on UCI's [Spamb
 
 To build the project go to the src/ directory and run the command:
 
-g++ -std=c++20 -Wall -Werror -o main main.cpp Email.cpp        
+```g++ -std=c++20 -Wall -Werror -o main main.cpp Email.cpp```
 
 and run the executable using ./main
